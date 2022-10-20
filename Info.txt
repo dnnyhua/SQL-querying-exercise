@@ -1,0 +1,10 @@
+A refresher
+
+Commands to connect postgres shell:
+- sudo service postgresql start
+
+to seed an empty database:
+- psql < database_name.sql
+
+to start querying:
+- psql database_name
